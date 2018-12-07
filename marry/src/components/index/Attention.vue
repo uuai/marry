@@ -22,7 +22,7 @@
         return {
           attention: [
             {
-              src: require('../../../static/img/delflow1.png'),
+              src: require('./static/img/delflow1.png'),
 
               position: '婚礼策划师',
               advisory: "梦幻巴黎婚礼",
@@ -30,14 +30,14 @@
               diary: 2,
             },
             {
-              src: require('../../../static/img/delflow1.png'),
+              src: require('./static/img/delflow1.png'),
               position: '婚礼策划师',
               advisory: "梦幻巴黎婚礼",
               fanNum: 2,
               diary: 2,
             },
             {
-              src: require('../../../static/img/delflow1.png'),
+              src: require('./static/img/delflow1.png'),
               position: '婚礼策划师',
               advisory: "梦幻巴黎婚礼",
               fanNum: 2,
