@@ -45,9 +45,9 @@
       return {
         waterfallsFlow: [
           {
-            src: require('../../static/img/delflow1.png'),
+            src: require('./static/img/delflow1.png'),
             flowText: "梦幻巴黎婚礼梦幻巴黎婚礼梦幻巴黎婚礼",
-            userImg: require('../../static/img/deluserImg.png'),
+            userImg: require('./static/img/deluserImg.png'),
             usernmae: "懒猫",
             isawesome: false,
             zan: 0,
